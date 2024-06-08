@@ -99,7 +99,7 @@ export default function Index(
 					<meta
 						name="description"
 						content={
-							publication.descriptionSEO || publication.title || `${publication.author.name}'s Blog`
+							publication.descriptionSEO || publication.title || `${publication.author.name}'s Blog 33`
 						}
 					/>
 					<meta property="twitter:card" content="summary_large_image" />
